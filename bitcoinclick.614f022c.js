@@ -21,4 +21,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"react":"PCqC"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=u(require("react-dom")),t=u(require("../BeCode/clicker/clicker/App"));function u(e){return e&&e.__esModule?e:{default:e}}r.default.render(e.default.createElement(t.default,null),document.getElementById("app"));
 },{"react":"HdMw","react-dom":"X9zx","../BeCode/clicker/clicker/App":"oX6D"}]},{},["Focm"], null)
-//# sourceMappingURL=/bitcoinclick.614f022c.js.map
+//# sourceMappingURL=/bitcoinClicker/bitcoinclick.614f022c.js.map
