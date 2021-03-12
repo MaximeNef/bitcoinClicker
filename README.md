@@ -33,6 +33,6 @@ What did we use ?
 
 React.js
 
-Final Result
+### Final Result
 
 You can find the website [here](https://maximenef.github.io/bitcoinClicker/)
