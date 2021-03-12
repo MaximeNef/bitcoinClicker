@@ -1,6 +1,6 @@
 # bitcoinClicker
 
-##Project infos
+##Project infos##
 
 ###Type of challenge: learning
 
